@@ -4,6 +4,10 @@
   "description": "A file management utility for Supabase Storage API, supporting user-specific directories and file operations.",
   "main": "src/storageManager.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelySaina/supabase-ged.git"
+  },
   "keywords": [
     "supabase",
     "storage",
