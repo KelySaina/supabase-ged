@@ -1,0 +1,21 @@
+{
+  "name": "supabase-ged",
+  "version": "1.0.0",
+  "description": "A file management utility for Supabase Storage API, supporting user-specific directories and file operations.",
+  "main": "src/storageManager.js",
+  "scripts": {},
+  "keywords": [
+    "supabase",
+    "storage",
+    "file-management",
+    "user-files"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
