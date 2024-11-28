@@ -10,7 +10,7 @@
     "file-management",
     "user-files"
   ],
-  "author": "Your Name",
+  "author": "KelySaina",
   "license": "MIT",
   "dependencies": {
     "@supabase/supabase-js": "^2.46.2"
