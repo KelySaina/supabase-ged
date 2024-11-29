@@ -6,13 +6,15 @@ A simple utility for managing user-specific files and directories using the Supa
 
 To install the package via npm:
 
+```bash
 npm install supabase-ged
+```
 
 ## Usage
 
 ### Importing the Module
 
-Import the necessary functions from the `supabase-storage-manager` package.
+Import the necessary functions from the `supabase-ged` package.
 
 ```javascript
 import {
@@ -24,7 +26,7 @@ import {
   deleteDirectory,
   deleteFile,
   moveFile,
-} from "supabase-storage-manager";
+} from "supabase-ged";
 ```
 
 ### Initializing Supabase Client
